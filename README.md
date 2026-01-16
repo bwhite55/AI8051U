@@ -18,3 +18,5 @@ A HAL library written for AI8051U
     + tft.c
     + timer.c
     +   usart.c
++ main.c
++ ai8051u_conf.h
