@@ -20,3 +20,7 @@ A HAL library written for AI8051U
         +   usart.c
     + main.c
     + ai8051u_conf.h
+
+### How to use it
+We need to config the project in ai8051u_conf.h and include the driver file in your main project file.
+
